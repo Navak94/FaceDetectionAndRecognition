@@ -1,0 +1,11 @@
+C:\Users\Nate Hindman\source\repos\FaceDetectionAndRecognition\FaceDetectionAndRecognition\obj\Debug\FaceDetectionAndRecognition.Form1.resources
+C:\Users\Nate Hindman\source\repos\FaceDetectionAndRecognition\FaceDetectionAndRecognition\obj\Debug\FaceDetectionAndRecognition.Properties.Resources.resources
+C:\Users\Nate Hindman\source\repos\FaceDetectionAndRecognition\FaceDetectionAndRecognition\obj\Debug\FaceDetectionAndRecognition.csproj.GenerateResource.cache
+C:\Users\Nate Hindman\source\repos\FaceDetectionAndRecognition\FaceDetectionAndRecognition\obj\Debug\FaceDetectionAndRecognition.csproj.CoreCompileInputs.cache
+C:\Users\Nate Hindman\source\repos\FaceDetectionAndRecognition\FaceDetectionAndRecognition\bin\Debug\FaceDetectionAndRecognition.exe.config
+C:\Users\Nate Hindman\source\repos\FaceDetectionAndRecognition\FaceDetectionAndRecognition\bin\Debug\FaceDetectionAndRecognition.exe
+C:\Users\Nate Hindman\source\repos\FaceDetectionAndRecognition\FaceDetectionAndRecognition\bin\Debug\FaceDetectionAndRecognition.pdb
+C:\Users\Nate Hindman\source\repos\FaceDetectionAndRecognition\FaceDetectionAndRecognition\obj\Debug\FaceDetectionAndRecognition.csproj.CopyComplete
+C:\Users\Nate Hindman\source\repos\FaceDetectionAndRecognition\FaceDetectionAndRecognition\obj\Debug\FaceDetectionAndRecognition.exe
+C:\Users\Nate Hindman\source\repos\FaceDetectionAndRecognition\FaceDetectionAndRecognition\obj\Debug\FaceDetectionAndRecognition.pdb
+C:\Users\Nate Hindman\source\repos\FaceDetectionAndRecognition\FaceDetectionAndRecognition\obj\Debug\FaceDetectionAndRecognition.csprojAssemblyReference.cache
